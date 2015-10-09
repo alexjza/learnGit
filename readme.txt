@@ -2,3 +2,4 @@ Git is a diatributed version control system.
 Git is free software distrinuted under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+changes.
